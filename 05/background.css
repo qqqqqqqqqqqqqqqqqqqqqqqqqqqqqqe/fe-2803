@@ -1,0 +1,8 @@
+.bg-example{
+height: 700px;
+width: 700px;
+background-color: aqua;
+}
+.bg-example:hover{
+    background-color: beige;
+}
