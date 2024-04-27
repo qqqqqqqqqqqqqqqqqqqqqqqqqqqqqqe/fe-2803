@@ -1,0 +1,17 @@
+.fb-icon{
+    border: 3px solid black;
+    width: 84px;
+    height: 80px;
+    background-image: url(img/sprite-icon-29.jpg);
+    background-position: left 0px top -84px;
+}
+.fb-icon:hover{
+    background-position: left 0px top -168px;
+ }
+.fb-icon.disabled{
+    border: 3px solid black;
+    width: 84px;
+    height: 80px;
+    background-image: url(img/sprite-icon-29.jpg);
+    background-position: left 0px top 0px;
+}
